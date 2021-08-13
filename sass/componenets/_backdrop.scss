@@ -209,6 +209,8 @@ color: var(--input-form-modal-color);}
   border-radius: 2px;
   background-color: var(--white-color);
 
+  cursor: pointer;
+
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
  
  .modal__form-input-checkbox:checked + & { 
